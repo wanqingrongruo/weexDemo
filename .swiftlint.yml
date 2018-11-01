@@ -13,7 +13,7 @@ large_tuple:
 force_cast: warning
 force_try: warning
 function_body_length: 
-  300
+  - 300
 cyclomatic_complexity: 
   - 100
 type_body_length:
